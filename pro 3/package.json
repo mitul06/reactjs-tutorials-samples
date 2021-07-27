@@ -1,0 +1,14 @@
+{
+  "name": "nodeex",
+  "version": "1.0.0",
+  "description": "understanding npm",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
